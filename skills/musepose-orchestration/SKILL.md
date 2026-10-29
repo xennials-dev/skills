@@ -1,9 +1,6 @@
 ---
 name: musepose-orchestration
-description: >-
-  Autonomous orchestration of Tencent MusePose image-to-video human dance animation and ComfyUI/Python backends.
-  Audits local asset directories, matches single-person portrait frames with skeleton sequences, handles CUDA OOM recovery,
-  and automatically routes rendered videos to render-play.
+description: "Autonomous orchestration of Tencent MusePose image-to-video human dance animation and ComfyUI/Python backends. Audits local asset directories, matches single-person portrait frames with skeleton sequences, handles CUDA OOM recovery, and automatically routes rendered videos to render-play."
 ---
 
 # Tencent MusePose Autonomous Agent Doctrine

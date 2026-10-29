@@ -1,9 +1,6 @@
 ---
 name: genai-model-router
-description: >-
-  Proactive generative AI model router and upstream git synchronizer. Automatically evaluates incoming
-  user prompts across Text, Image, Video, Avatar, and Audio modalities and routes execution to Hedra v3,
-  Happy Horse 1.0, Llama 4, Qwen 3.5, FLUX.1/2, LTX-2.5, Wan 2.2, Tencent MusePose, Whisper Large V3, or Bark.
+description: "Proactive generative AI model router and upstream git synchronizer. Automatically evaluates incoming user prompts across Text, Image, Video, Avatar, and Audio modalities and routes execution to Hedra v3, Happy Horse 1.0, Llama 4, Qwen 3.5, FLUX.1/2, LTX-2.5, Wan 2.2, Tencent MusePose, Whisper Large V3, or Bark."
 ---
 
 # Proactive Generative AI Model Router & Upstream Sync
